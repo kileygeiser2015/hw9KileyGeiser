@@ -1,0 +1,17 @@
+Title, Warren Truss Full
+Node, A, 0, 0
+Node, B, 60, 100
+Node, C, 120, 0
+Node, D, 180, 100
+Node, E, 240, 0
+Link, AB, A, B, 2.0, 0.25, steel
+Link, BC, B, C, 2.0, 0.25, steel
+Link, CD, C, D, 2.0, 0.25, steel
+Link, DE, D, E, 2.0, 0.25, steel
+Link, AC, A, C, 2.0, 0.25, steel
+Link, CE, C, E, 2.0, 0.25, steel
+Link, BD, B, D, 2.0, 0.25, steel
+
+
+
+
